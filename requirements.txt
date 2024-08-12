@@ -1,0 +1,5 @@
+google.generativeai
+langchain-community
+gradio
+streamlit
+selenium
